@@ -1,0 +1,26 @@
+button.x2y2-xmint-btn {
+    background-color: rgb(59 130 246);
+    border: solid 2px rgb(59 130 246);
+}
+button.x2y2-xmint-btn > span {
+    color: rgb(252 252 253);
+    font-family: Poppins,sans-serif;
+}
+button.x2y2-xmint-btn:hover,
+button.x2y2-xmint-secondary-btn:hover {
+    background-color: rgb(43 100 211);
+    border-color: rgb(43 100 211);
+    opacity: 1 !important;
+}
+button.x2y2-xmint-secondary-btn {
+    border: solid 2px rgb(43 100 211);
+    box-sizing: border-box;
+    background: transparent;
+}
+button.x2y2-xmint-secondary-btn > span {
+    color: rgb(59 130 246);
+    font-family: Poppins,sans-serif;
+}
+button.x2y2-xmint-secondary-btn:hover > span {
+    color: rgb(252 252 253) !important;
+}
